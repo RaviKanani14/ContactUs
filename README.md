@@ -2,7 +2,6 @@ Ravi Kumar
 Privacy Policy of Testing
 
 Privacy Policy
-Effective date: December 21, 2018
 
 Testing ("us", "we", or "our") operates the Testing mobile application (the "Service").
 
